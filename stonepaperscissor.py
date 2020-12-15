@@ -9,7 +9,7 @@ lst = ["stone","paper", "scissor"]
 i = 1
 cs = 0
 us = 0
-while i <= 3:
+while i <= 5:
     cc = random.choice(lst)
     uc = input("\nChoose your option\n")
 
